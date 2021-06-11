@@ -10,12 +10,21 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Little Talks")
+print("Of Monsters And Men")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("I don't like walking around this cold and empty house")
+print("So hold my hand I'll walk with you my dear")
+print("The stairs creak as I sleep")
+print("It's keeping me awake")
+print("It's the house telling you to close your eyes")
+print("And some days I can't even dress myself")
+print("It's killing me to see you this way")
+print("'Cause if the truth may vary this")
+print("This ship will carry our bodies safe to shore")
 
 
 /*:
